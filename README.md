@@ -4,7 +4,7 @@
 ![Скриншот меню](https://raw.githubusercontent.com/jonifon/LethalCompanyHack/master/Screen.png)
 
 
-Описание проекта: Мод-меню для игры Lethal Company, предоставляющее удобный доступ к различным функциям, улучшающим игровой опыт.
+Мод-меню для игры Lethal Company, предоставляющее удобный доступ к различным функциям, улучшающим игровой опыт.
 
 ## Содержание
 
@@ -33,7 +33,7 @@ Lethal Company Mod Menu представляет собой инструмент
 Простые шаги по использованию мод-меню:
 
 1. Скачайте мод меню.
-2. Используйте любой удобный вам инжектор чтобы внедрить чит в игру. Я использую [этот](https://www.unknowncheats.me/forum/unity/404552-wh0s-unity-injector.html)
+2. Используйте любой удобный вам инжектор чтобы внедрить чит в игру. Я использую [этот](https://www.unknowncheats.me/forum/unity/404552-wh0s-unity-injector.html).
 ![Скриншот настроек инжектора](https://raw.githubusercontent.com/jonifon/LethalCompanyHack/master/Screen2.png)
 ---
 
